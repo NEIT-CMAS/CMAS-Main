@@ -14,6 +14,9 @@ namespace MapDataMaper
                
 
 
+
+
+
                conStr = "Server=" + server + ";Database=" + db + ";User Id =" + user + ";Password=" + pass;
 
                return conStr;
