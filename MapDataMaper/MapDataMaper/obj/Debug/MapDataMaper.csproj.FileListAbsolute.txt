@@ -3,3 +3,8 @@ C:\Users\FrederickCButts\Desktop\Capstone\Master\CMAS-Main\MapDataMaper\MapDataM
 C:\Users\FrederickCButts\Desktop\Capstone\Master\CMAS-Main\MapDataMaper\MapDataMaper\obj\Debug\MapDataMaper.csprojResolveAssemblyReference.cache
 C:\Users\FrederickCButts\Desktop\Capstone\Master\CMAS-Main\MapDataMaper\MapDataMaper\obj\Debug\MapDataMaper.dll
 C:\Users\FrederickCButts\Desktop\Capstone\Master\CMAS-Main\MapDataMaper\MapDataMaper\obj\Debug\MapDataMaper.pdb
+C:\Users\William\Desktop\Seinior Project\CMAS-Main\MapDataMaper\MapDataMaper\bin\Debug\MapDataMaper.dll
+C:\Users\William\Desktop\Seinior Project\CMAS-Main\MapDataMaper\MapDataMaper\bin\Debug\MapDataMaper.pdb
+C:\Users\William\Desktop\Seinior Project\CMAS-Main\MapDataMaper\MapDataMaper\obj\Debug\MapDataMaper.csprojResolveAssemblyReference.cache
+C:\Users\William\Desktop\Seinior Project\CMAS-Main\MapDataMaper\MapDataMaper\obj\Debug\MapDataMaper.dll
+C:\Users\William\Desktop\Seinior Project\CMAS-Main\MapDataMaper\MapDataMaper\obj\Debug\MapDataMaper.pdb
